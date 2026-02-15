@@ -1,10 +1,10 @@
 # fiberoptiq
 Cybersecurity Portfolio
 
-TryHackMe Journal "Coming Soon" /
+SQL Query / TryHackMe Journal / File Permissions
 Incident Handler's Journal "Coming Soon" /
 Vulnerable Systems Analysis "Coming Soon" /
-SQL Query "Coming Soon"
+SQL Query
 
 Background & Transferrable Skills:
 LiquidCool Submerged Server [LSS] Technology *
