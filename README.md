@@ -3,7 +3,8 @@ Cybersecurity Portfolio
 
 SQL Query / TryHackMe Journal / File Permissions /
 Incident Handler's Journal /
-Vulnerable Systems Analysis /
+Vulnerable Assessment Report /
+Incident Final Report /
 
 Background & Transferrable Skills:
 LiquidCool Submerged Server [LSS] Technology *
